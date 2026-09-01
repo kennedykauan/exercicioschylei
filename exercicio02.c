@@ -17,5 +17,7 @@ int main()
     media = (n1+n2+n3)/3;
     
     printf("A média das notas digitadas é %f", media);
+
+    return 0;
     
 }
